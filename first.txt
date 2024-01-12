@@ -1,5 +1,6 @@
 today is friday
 day 12
 month is january
+we are learning git
 year is 2024
 today we have mock test
